@@ -1,0 +1,35 @@
+{
+    "menuItems": [
+      {
+        "name": "Pepperoni Pizza",
+        "image": "./src/assets/multiplePizzas.jpeg",
+        "price": 15.99
+      },
+      {
+        "name": "Margherita Pizza",
+        "image": "path/to/Margherita.jpg",
+        "price": 11.99
+      },
+      {
+        "name": "PedroTech Special Pizza",
+        "image": "path/to/PedroTechSpecial.jpg",
+        "price": 256.53
+      },
+      {
+        "name": "Vegan Pizza",
+        "image": "path/to/Vegan.jpg",
+        "price": 17.99
+      },
+      {
+        "name": "Pineapple Pizza",
+        "image": "path/to/Pineapple.jpg",
+        "price": 4.99
+      },
+      {
+        "name": "Very Expensive Pizza",
+        "image": "path/to/Expensive.jpg",
+        "price": 1997.99
+      }
+    ]
+  }
+  
